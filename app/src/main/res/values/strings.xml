@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Wanderlust Wonders</string>
+    <string name="new_york_city">New York City</string>
+    <string name="usa">The United States of America</string>
+    <string name="new_york">NY, New York</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="california">CA, California</string>
+    <string name="boston">Boston</string>
+    <string name="massachusetts">MA, Massachusetts</string>
+    <string name="florida">FL, Florida</string>
+    <string name="orlando">Orlando</string>
+    <string name="miami">Miami</string>
+    <string name="austin">Austin</string>
+    <string name="texas">TX, Texas</string>
+    <string name="washington">Washington</string>
+    <string name="columbia">District of Columbia</string>
+    <string name="sort_by_city">Sort by city</string>
+    <string name="sort_by_country">Sort by country</string>
+    <string name="default_list">Default</string>
+    <string name="city_details">City details</string>
+    <string name="kyiv">Kyiv</string>
+    <string name="ukraine">Ukraine</string>
+    <string name="no_city_found">No city found</string>
+
+    // descriptions
+
+    <string name="new_york_city_description">New York City, often referred to as the "Big Apple," is a vibrant and bustling metropolis located on the eastern coast of the United States. It is one of the most iconic and culturally diverse cities in the world, attracting millions of visitors each year.
+    The city is known for its stunning skyline dominated by towering skyscrapers such as the Empire State Building and One World Trade Center. It is a global hub of finance, business, fashion, art, and entertainment, with Wall Street representing its financial center and renowned fashion districts like Fifth Avenue setting trends.
+    New York City is a melting pot of diverse cultures and ethnicities, reflected in its neighborhoods. From the bustling streets of Times Square to the artistic vibe of Greenwich Village and the vibrant energy of Chinatown, each district offers a unique experience and a glimpse into different cultures.
+    The city\'s cultural scene is thriving, with world-class museums like the Metropolitan Museum of Art, Museum of Modern Art (MoMA), and the Guggenheim Museum showcasing art from various periods and styles. Broadway, known as the "Great White Way," is synonymous with top-notch theater productions and musicals.
+    Food enthusiasts are spoiled for choice in New York City, with an incredible array of international cuisines available at every turn. From street food vendors offering hot dogs and pretzels to upscale restaurants helmed by renowned chefs, there\'s something to satisfy every palate.
+    Beyond the concrete jungle, New York City offers stunning green spaces like Central Park, providing a tranquil escape from the bustling city streets. The city also boasts iconic landmarks such as the Statue of Liberty and the Brooklyn Bridge, symbolizing the spirit of freedom and architectural marvels.
+    New York City is a city that never sleeps, pulsating with energy day and night. Its fast-paced lifestyle, diverse communities, and endless opportunities make it a place of dreams and aspirations, attracting people from all walks of life seeking to make their mark in this dynamic urban landscape.</string>
+
+    <string name="los_angeles_description">Los Angeles, often referred to as LA, is a captivating and culturally diverse city located on the western coast of the United States in Southern California. Renowned as the entertainment capital of the world, it is a global center for the film and television industry, attracting aspiring actors, directors, and artists from around the globe.
+    The city\'s iconic Hollywood sign, perched on the hills, serves as a symbol of the entertainment industry\'s influence. LA is home to major film studios, including Universal Studios, Warner Bros., and Paramount Pictures, where visitors can take studio tours and get a glimpse behind the scenes of movie-making magic.
+    Apart from its fame in the entertainment world, Los Angeles boasts a stunning coastline along the Pacific Ocean. The picturesque beaches of Santa Monica, Venice, and Malibu attract locals and tourists alike with their golden sands, surfable waves, and vibrant beach culture. The Santa Monica Pier, with its Ferris wheel and amusement park, offers a fun-filled experience for visitors of all ages.
+    LA is a sprawling city, encompassing diverse neighborhoods and communities. Beverly Hills is known for its luxurious lifestyle and high-end shopping on Rodeo Drive, while West Hollywood pulsates with trendy bars, nightclubs, and a vibrant LGBTQ+ scene. Downtown LA showcases a mix of historic and modern architecture, with notable landmarks like the Walt Disney Concert Hall and the Staples Center, hosting major sports events and concerts.
+    Art and culture thrive in Los Angeles, with world-class museums like the Getty Center and the Los Angeles County Museum of Art (LACMA) showcasing impressive collections spanning various artistic periods. The city also celebrates its multicultural heritage through festivals, parades, and events that embrace its diverse population.
+    Los Angeles is a culinary hub, offering a diverse range of cuisines from around the world. Food enthusiasts can explore ethnic enclaves such as Koreatown, Little Tokyo, and Chinatown, where they can indulge in authentic and delicious dishes.
+    The city\'s pleasant climate allows for outdoor activities year-round. Hiking enthusiasts can explore the stunning trails of Griffith Park or enjoy panoramic views from the Griffith Observatory. LA is also home to professional sports teams like the Lakers (basketball), Dodgers (baseball), and Rams (American football), offering sports fans plenty of opportunities to cheer for their favorite teams.
+    With its blend of glamour, creativity, diverse communities, and abundant sunshine, Los Angeles offers a unique and captivating experience for both residents and visitors, making it a city that continues to capture the imagination of many.</string>
+
+    <string name="boston_description">Boston, the capital city of Massachusetts, is a historic and vibrant city located on the eastern coast of the United States. Known for its rich history, prestigious universities, and charming neighborhoods, Boston offers a unique blend of culture, intellect, and New England charm.
+    The city played a significant role in American history, with landmarks like the Freedom Trail guiding visitors through the revolutionary past. Sites such as the Paul Revere House, the Old State House, and the USS Constitution Museum provide glimpses into the city\'s colonial heritage.
+    Boston is home to several world-renowned universities, including Harvard University and Massachusetts Institute of Technology (MIT). These institutions contribute to the city\'s intellectual atmosphere, fostering innovation, research, and academic excellence. The presence of students from around the world adds to the city\'s youthful and vibrant energy.
+    The cityscape of Boston combines both historic and modern architecture. The picturesque neighborhoods of Beacon Hill and Back Bay feature charming brownstone buildings, cobblestone streets, and picturesque parks. The iconic Charles River flows through the city, offering opportunities for boating, kayaking, and enjoying scenic views.
+    Sports hold a special place in Boston\'s culture, with passionate fans supporting their beloved teams. Fenway Park, the oldest ballpark in Major League Baseball, is home to the Boston Red Sox. The city also boasts successful professional teams like the Celtics (basketball) and the Bruins (ice hockey).
+    Boston is known for its thriving arts scene, with numerous theaters, galleries, and museums. The Museum of Fine Arts and the Isabella Stewart Gardner Museum house impressive collections of art from around the world. The city also hosts cultural festivals, including the Boston Symphony Orchestra\'s performances at Symphony Hall.
+    Culinary enthusiasts will find a diverse and thriving food scene in Boston. From classic New England seafood to international cuisine, the city offers a wide range of culinary delights. Iconic dishes such as clam chowder and lobster rolls are must-try items for visitors.
+    Boston\'s green spaces provide a respite from city life. The expansive Boston Common and Public Garden are ideal for strolling, picnicking, and enjoying outdoor activities. The nearby Boston Harbor Islands offer opportunities for hiking, camping, and exploring nature.
+    With its blend of history, academia, cultural offerings, and picturesque neighborhoods, Boston captivates visitors with its unique charm and New England character. The city\'s welcoming atmosphere, combined with its intellectual and artistic vibrancy, make it a destination that offers something for everyone.</string>
+
+    <string name="orlando_description">Orlando, located in central Florida, is a vibrant and popular city known for its world-class theme parks, entertainment options, and sunny weather. It attracts millions of visitors from around the globe who come to experience its magical attractions and enjoy a memorable vacation.
+    Orlando\'s most famous feature is its collection of theme parks, including Walt Disney World Resort, Universal Orlando Resort, and SeaWorld Orlando. These parks offer a variety of thrilling rides, captivating shows, and immersive experiences that cater to visitors of all ages. From meeting beloved Disney characters to exploring the Wizarding World of Harry Potter, there\'s no shortage of excitement and adventure in Orlando\'s theme park offerings.
+    Beyond the theme parks, Orlando offers a range of entertainment and recreational activities. International Drive, also known as I-Drive, is a bustling area with hotels, restaurants, shopping outlets, and entertainment venues. Visitors can explore attractions like the ICON Orlando observation wheel, Madame Tussauds Orlando, and the SEA LIFE Orlando Aquarium.
+    Nature lovers can discover the beauty of the region through Orlando\'s lush parks and gardens. The Harry P. Leu Gardens, for example, showcases stunning botanical displays, while the Wekiwa Springs State Park offers opportunities for outdoor activities like hiking, canoeing, and wildlife spotting.
+    Orlando is also home to a thriving arts and culture scene. The Dr. Phillips Center for the Performing Arts hosts Broadway shows, ballet performances, concerts, and other live events. The Orlando Museum of Art and the Orlando Science Center provide enriching experiences for visitors interested in art, science, and educational exhibits.
+    The city boasts a diverse culinary landscape, with a wide range of dining options available. From gourmet restaurants to casual eateries and international cuisines, food enthusiasts can indulge in a variety of flavors and culinary delights in Orlando.
+    With its warm climate, Orlando offers ample opportunities for outdoor recreation and sports. Golf enthusiasts can enjoy the numerous golf courses scattered throughout the area, while water sports like boating, fishing, and paddleboarding can be enjoyed in the nearby lakes.
+    Orlando\'s hospitality industry is well-developed, with a plethora of accommodation options ranging from luxury resorts to budget-friendly hotels and vacation rentals. The city\'s hospitality extends beyond its attractions, ensuring visitors feel welcome and comfortable throughout their stay.
+    Overall, Orlando\'s combination of world-class theme parks, entertainment options, outdoor activities, and diverse cultural offerings make it a popular destination for families, thrill-seekers, and those looking to create unforgettable memories.</string>
+
+    <string name="miami_description">Miami, located in southeastern Florida, is a vibrant and cosmopolitan city known for its beautiful beaches, diverse culture, and lively atmosphere. It is a popular destination for tourists from around the world, offering a unique blend of tropical vibes, stunning architecture, and a thriving arts scene.
+    One of the main draws of Miami is its breathtaking beaches. From the iconic South Beach with its vibrant Art Deco buildings to the serene sands of Key Biscayne, visitors can enjoy sunbathing, swimming, water sports, and beachfront relaxation. The crystal-clear turquoise waters of the Atlantic Ocean provide a perfect backdrop for outdoor activities and a refreshing escape from the city heat.
+    Miami\'s diverse culture is a key aspect of its charm. Influences from Latin America, the Caribbean, and beyond contribute to a vibrant fusion of flavors, music, and art. Neighborhoods like Little Havana and Calle Ocho showcase Cuban heritage, offering visitors a taste of authentic cuisine, lively street life, and Latin rhythms. Art enthusiasts can explore the renowned Wynwood Walls, an outdoor street art museum that showcases vibrant and eclectic murals from local and international artists.
+    The city is also known for its thriving nightlife and entertainment options. South Beach comes alive after sunset, offering a variety of trendy nightclubs, bars, and lounges where visitors can dance the night away or enjoy live music performances. Miami\'s culinary scene is diverse and exciting, with a mix of international cuisines, celebrity chef-driven restaurants, and local favorites like fresh seafood and Caribbean delights.
+    Architecture enthusiasts will appreciate Miami\'s unique blend of styles. The city features a mix of Art Deco, Mediterranean Revival, and modern architectural gems. The iconic Miami Beach Architectural District, also known as the Art Deco District, is a must-see for its colorful buildings and retro charm.
+    For those seeking a dose of nature and tranquility, the Everglades National Park is just a short drive away. Visitors can explore this vast wetland ecosystem, encounter wildlife such as alligators and birds, and experience guided airboat tours.
+    Miami\'s sports scene is vibrant, with passionate fans supporting teams like the Miami Heat (basketball), Miami Dolphins (football), and Miami Marlins (baseball). The city also hosts major sporting events and international tournaments.
+    Overall, Miami\'s combination of stunning beaches, vibrant culture, exciting nightlife, and unique architectural landscapes make it a dynamic and captivating destination. Whether it\'s enjoying the sun-soaked shores, immersing in diverse cultural experiences, or indulging in world-class entertainment and dining, Miami offers something for everyone.</string>
+
+    <string name="austin_description">Austin, the capital city of Texas, is a vibrant and dynamic city known for its live music scene, outdoor activities, and unique blend of Texan charm and progressive culture. Located in the heart of the state, Austin offers a lively atmosphere, a thriving arts scene, and a strong sense of community.
+    Music plays a significant role in Austin\'s identity, earning it the title of the "Live Music Capital of the World." The city is home to numerous music venues, from intimate clubs on Sixth Street to the iconic Moody Theater, which hosts performances for the popular PBS show, Austin City Limits. Throughout the year, Austin hosts renowned music festivals, including South by Southwest (SXSW) and Austin City Limits Music Festival, attracting music lovers from around the globe.
+    Beyond its music scene, Austin is surrounded by stunning natural beauty. The city is situated along the Colorado River and features an abundance of green spaces and parks. Zilker Park, with its sprawling grounds and the natural spring-fed Barton Springs Pool, offers a picturesque setting for picnics, outdoor activities, and festivals. Lady Bird Lake provides opportunities for kayaking, paddleboarding, and scenic hikes along the Ann and Roy Butler Hike-and-Bike Trail.
+    Austin is also known for its diverse culinary scene, offering a fusion of Texan, Mexican, and international flavors. Food trucks and trailers are a hallmark of the city, serving up everything from traditional barbecue to innovative cuisine. The city boasts a thriving farm-to-table movement and a strong emphasis on locally sourced ingredients.
+    The city\'s cultural scene extends beyond music and food. Austin is home to various art galleries, theaters, and museums. The Blanton Museum of Art, the Mexic-Arte Museum, and the Harry Ransom Center are among the notable cultural institutions that showcase a range of artistic and historical exhibits.
+    Austin embraces a progressive and inclusive atmosphere, fostering a strong sense of community and entrepreneurship. The city is known as a tech hub, attracting startups and tech companies, while also being the location of the University of Texas at Austin, a renowned institution for education and research.
+    Austin\'s vibrant neighborhoods contribute to its unique character. South Congress (SoCo) offers a mix of boutique shops, vintage stores, and eclectic eateries. The East Side is known for its artistic vibe, featuring galleries, studios, and a diverse range of cuisines. Rainey Street and Sixth Street are renowned for their vibrant nightlife and lively bar scene.
+    With its combination of live music, outdoor activities, diverse culinary experiences, and a welcoming atmosphere, Austin captures the spirit of Texas while embracing its own distinct identity. The city\'s energy, creativity, and sense of community make it a compelling destination for visitors and a beloved home for its residents.</string>
+
+    <string name="washington_description">Washington, D.C., commonly referred to as Washington, is the capital city of the United States. It is located on the east coast of the country, along the banks of the Potomac River. Washington, D.C. is a vibrant and historically significant city known for its iconic landmarks, political institutions, and cultural attractions.
+    The city is home to numerous iconic landmarks and monuments, many of which symbolize American history and democracy. The National Mall stretches from the Capitol Building to the Lincoln Memorial, encompassing significant sites such as the Washington Monument, the Vietnam Veterans Memorial, and the Jefferson Memorial. These monuments attract millions of visitors each year and serve as powerful symbols of the nation\'s heritage.
+    Washington, D.C. is the seat of the U.S. federal government, housing the White House, the residence of the President, and the Capitol Building, where the U.S. Congress convenes. The city is also home to various government agencies, departments, and international organizations.
+    The Smithsonian Institution, the world\'s largest museum and research complex, has several museums in Washington, D.C., including the National Air and Space Museum, the National Museum of American History, and the National Museum of Natural History. These museums offer a vast array of exhibits, artifacts, and educational resources, showcasing the cultural, scientific, and historical achievements of the United States and the world.
+    Beyond politics and history, Washington, D.C. offers a thriving arts and cultural scene. The city is home to numerous theaters, galleries, and music venues, hosting performances ranging from classical music concerts at the Kennedy Center to contemporary shows at the Ford\'s Theatre.
+    Washington, D.C.\'s diverse neighborhoods contribute to its vibrant character. Each neighborhood offers its own distinct atmosphere, from the lively and eclectic Adams Morgan to the upscale Georgetown with its historic charm and waterfront views. Dupont Circle, U Street, and Capitol Hill are among other popular neighborhoods known for their dining, shopping, and nightlife options.
+    The city also boasts beautiful parks and green spaces, such as Rock Creek Park and the Tidal Basin, where visitors can enjoy outdoor activities, picnics, and cherry blossom viewing during the spring season.
+    In summary, Washington, D.C. is a city rich in history, political significance, and cultural offerings. Its iconic landmarks, museums, and institutions make it a compelling destination for tourists, scholars, and those interested in American history and democracy.</string>
+
+    <string name="kyiv_description">Kyiv, also spelled Kiev, is the capital and largest city of Ukraine. Situated on the banks of the Dnieper River in the north-central part of the country, Kyiv is a historic and culturally rich city with a deep sense of national identity.
+    Kyiv has a long and fascinating history that dates back over 1,500 years. It served as the capital of the Kyivan Rus, a medieval East Slavic state and precursor to modern-day Ukraine. The city has witnessed various historical events, architectural styles, and cultural influences, which are reflected in its diverse landmarks and attractions.
+    One of the most prominent landmarks in Kyiv is the Kyiv Pechersk Lavra, also known as the Kyiv Monastery of the Caves. This UNESCO World Heritage Site is a complex of churches, cathedrals, and underground caves that house the relics of saints. It is a significant spiritual and pilgrimage site for Orthodox Christians.
+    Another iconic landmark is the golden-domed Saint Sophia\'s Cathedral, an architectural masterpiece that dates back to the 11th century. The cathedral features stunning mosaics and frescoes and is an important symbol of Kyiv\'s cultural and religious heritage.
+    Kyiv\'s city center offers a mix of historic and modern attractions. Khreshchatyk Street, the city\'s main thoroughfare, is known for its bustling atmosphere, shops, restaurants, and vibrant street life. Maidan Nezalezhnosti, or Independence Square, is a central square that has been a focal point for significant political and social events in Ukraine\'s history.
+    The city is also home to numerous museums, including the National Museum of Ukrainian History, the Museum of Folk Architecture and Life of Ukraine, and the PinchukArtCentre, which showcases contemporary art.
+    Kyiv is known for its vibrant arts and cultural scene. The city hosts numerous festivals, concerts, and theatrical performances throughout the year. The Kyiv National Opera House is renowned for its ballet and opera productions, attracting both local and international artists.
+    Ukrainian cuisine is diverse and flavorsome, and Kyiv offers a range of traditional dishes that showcase the country\'s culinary heritage. From hearty borscht and varenyky (dumplings) to savory salo (pork fat) and delicious pastries, food lovers can explore the rich flavors and unique tastes of Ukrainian cuisine in the city\'s restaurants and cafes.
+    In recent years, Kyiv has also embraced modernity and innovation, with a growing tech scene, trendy neighborhoods, and an evolving nightlife. Areas like Podil and Vozdvyzhenka are known for their hip cafes, art galleries, and creative spaces.
+    Kyiv\'s charm lies not only in its historical and cultural treasures but also in its warm hospitality and the resilience of its people. The city offers a unique blend of tradition, modernity, and a vibrant spirit that continues to captivate visitors from around the world.</string>
+    <string name="name">"Name: "</string>
+    <string name="country">"Country: "</string>
+    <string name="state">"State: "</string>
+    <string name="coffee_shops">Coffee shops</string>
+    <string name="coffee_shop">Coffee shop</string>
+    <string name="gregorys_coffee">Gregorys Coffee</string>
+    <string name="river_st">111 River St</string>
+    <string name="king_street_coffee">King\'s Street Coffee</string>
+    <string name="w_19_st">121 W 30th St</string>
+    <string name="w_33_st">438 W 33rd St</string>
+    <string name="black_fox_coffee">Black Fox Coffee</string>
+    <string name="traction_811_ave">811 Traction Ave</string>
+    <string name="groundwork_coffee_co">Groundwork Coffee Co.</string>
+    <string name="melrose_7353b_ave">7353B Melrose Ave</string>
+    <string name="coffee_attic">Coffee Attic</string>
+    <string name="philz_coffee">Philz Coffee</string>
+    <string name="sunset_6430_blvd">6430 Sunset Blvd</string>
+    <string name="northern_ave_55">55 Northern Ave</string>
+    <string name="tokava">Tokava</string>
+    <string name="pond_7_st">7 Pond St</string>
+    <string name="the_well_coffee_house">The Well Coffee House</string>
+    <string name="washington_st_1_1a_state_street_212">1–1A State Street, 212 Washington St</string>
+    <string name="orlando_coffee_roasters">Orlando Coffee Roasters</string>
+    <string name="w_gore_st_1401">1401 W Gore St</string>
+    <string name="holy_grain_coffee_shop">Holy Grain Coffee Shop</string>
+    <string name="conroy_rd_ste_109_6735">6735 Conroy Rd STE 109</string>
+    <string name="cfs_coffee_kirkman">CFS Coffee Kirkman</string>
+    <string name="kirkman_s_4774">4774 S Kirkman Rd</string>
+    <string name="caffe_umbria">Caffe Umbria</string>
+    <string name="panther_coffee_miami_beach">Panther Coffee Miami Beach</string>
+    <string name="xo_espresso_bar">XO Espresso Bar</string>
+    <string name="west_ave_959">959 West Ave</string>
+    <string name="purdy_ave_1875">1875 Purdy Ave</string>
+    <string name="lincoln_ln_723">723 Lincoln Ln N</string>
+    <string name="anderson_coffee_co">Anderson\'s Coffee Co</string>
+    <string name="w_38_st">1601 W 38th St</string>
+    <string name="capital_one_cafe">Capital One Cafe</string>
+    <string name="e_st_suite">106 E 6th St Suite</string>
+    <string name="neighbor_coffee_friends">Neighbor Coffee &amp; Friends></string>
+    <string name="burnet_rd_5000">5000 Burnet Rd</string>
+    <string name="m_st_3150">3150 M St NW</string>
+    <string name="compass_coffee">Compass Coffee</string>
+    <string name="st_i_1401">1401 I St NW</string>
+    <string name="dua_dc_coffee">DUA DC Coffee</string>
+    <string name="st_15th">923 15th St NW</string>
+    <string name="alice_coffee">Alice Coffee</string>
+    <string name="idealist_coffee">Idealist Coffee</string>
+    <string name="best_rock_coffee">Best Rock Coffee</string>
+    <string name="laboratorna_st">Laboratorna St, 1</string>
+    <string name="antonovycha_st">Antonovycha St, 44</string>
+    <string name="yurkivska_st">Yurkivska St</string>
+    <string name="see_coffee_shops">See Coffee Shops</string>
+    <string name="add_city">Add a city</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_city_alert_text">You can create your own list of cities that you have visited</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="arizona">Arizona</string>
+    <string name="field_label">Fields must not be empty</string>
+    <string name="share_message">%1s\n%2s\n%3s\n\n%4s</string>
+    <string name="action_sort_cities_desc">Sort by cities</string>
+    <string name="hide_image_desc">Allows users to conceal or remove an image from view within a specific context or interface. This feature is designed to provide users with the option to temporarily or permanently hide an image.</string>
+    <string name="hide_image">Hide image</string>
+    <string name="learn_more">Learn more</string>
+    <string name="add_city_desc">Allows users to include a new city or location to a designated list within an application.</string>
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="capitalize_letters">Capitalize letters</string>
+</resources>
