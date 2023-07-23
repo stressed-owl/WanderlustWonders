@@ -1,9 +1,9 @@
 package com.delusional_bear.wanderlustwonders.ui
 
-import android.content.Intent
 import android.widget.Toast
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FabPosition
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.RichTooltipBox
 import androidx.compose.material3.Scaffold
@@ -97,6 +97,7 @@ fun WanderlustWondersApp(
                 }
             }
         },
+        floatingActionButtonPosition = FabPosition.Center,
     ) { paddingValues ->
         NavHost(
             navController = navController,
@@ -113,22 +114,7 @@ fun WanderlustWondersApp(
                             popUpTo(Destination.Home.route)
                         }
                     }
-                ) {
-                    val shareMessage = context.resources.getString(
-                        R.string.share_message,
-                        it.name,
-                        it.country,
-                        it.state,
-                        context.resources.getString(it.description)
-                    )
-                    val intent = Intent().apply {
-                        action = Intent.ACTION_SEND
-                        putExtra(Intent.EXTRA_TEXT, shareMessage)
-                        type = "text/plain"
-                    }
-                    val shareIntent = Intent.createChooser(intent, null)
-                    context.startActivity(shareIntent)
-                }
+                )
             }
             composable(Destination.Details.route) { entry ->
                 val cityId = entry.arguments?.getString("cityId")
@@ -165,7 +151,7 @@ fun WanderlustWondersApp(
             onCityValueChange = { viewModel.setCity(it) },
             onCountryValueChange = { viewModel.setCountry(it) },
             onStateValueChange = { viewModel.setState(it) },
-            isError = uiState.isError
+            isError = uiState.isError,
         ) {
             viewModel.openDialog()
         }

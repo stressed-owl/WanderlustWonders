@@ -6,5 +6,4 @@ sealed class Destination(val route: String) {
     object Details: Destination("details/{cityId}") {
         fun createRoute(cityId: Int) = "details/$cityId"
     }
-    object Settings: Destination("settings")
 }
