@@ -3,6 +3,8 @@ package com.delusional_bear.wanderlustwonders.ui.screens
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.wrapContentSize
 import androidx.compose.foundation.lazy.LazyColumn
@@ -26,7 +28,8 @@ fun UserCityListScreen(
     Column(modifier = Modifier.fillMaxSize()) {
         LazyColumn(
             modifier = modifier
-                .fillMaxSize()
+                .fillMaxWidth()
+                .height(580.dp)
                 .padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.spacedBy(8.dp),
