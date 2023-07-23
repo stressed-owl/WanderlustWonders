@@ -19,7 +19,6 @@ fun CityListScreen(
     modifier: Modifier = Modifier,
     isSortedByCity: Boolean,
     onCardClick: (City) -> Unit,
-    onShareClick: (City) -> Unit,
 ) {
     Column(
         modifier = modifier
@@ -28,7 +27,7 @@ fun CityListScreen(
     ) {
         LazyColumn(
             modifier = Modifier.padding(10.dp),
-            verticalArrangement = Arrangement.spacedBy(12.dp)
+            verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
             items(
                 if (isSortedByCity) dataSource.getSortedByCityList()
@@ -37,7 +36,7 @@ fun CityListScreen(
                 CityCard(
                     city = city,
                     onCardClick = { onCardClick(city) }
-                ) { onShareClick(city) }
+                )
             }
         }
     }
