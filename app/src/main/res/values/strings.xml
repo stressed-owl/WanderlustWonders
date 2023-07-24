@@ -21,6 +21,12 @@
     <string name="city_details">City details</string>
     <string name="kyiv">Kyiv</string>
     <string name="ukraine">Ukraine</string>
+    <string name="taipei">Taipei</string>
+    <string name="taiwan">Taiwan</string>
+    <string name="seoul">Seoul</string>
+    <string name="south_korea">South Korea</string>
+    <string name="madrid">Madrid</string>
+    <string name="spain">Spain</string>
     <string name="no_city_found">No city found</string>
 
     // descriptions
@@ -100,7 +106,30 @@
     In recent years, Kyiv has also embraced modernity and innovation, with a growing tech scene, trendy neighborhoods, and an evolving nightlife. Areas like Podil and Vozdvyzhenka are known for their hip cafes, art galleries, and creative spaces.
     Kyiv\'s charm lies not only in its historical and cultural treasures but also in its warm hospitality and the resilience of its people. The city offers a unique blend of tradition, modernity, and a vibrant spirit that continues to captivate visitors from around the world.</string>
 
+    <string name="taipei_description">Taipei, the vibrant capital city of Taiwan, is a captivating blend of ancient traditions and modern marvels. Nestled in the heart of the island, this dynamic metropolis is a melting pot of cultures and experiences, offering a unique fusion of Eastern heritage and Western influences.
+    Stroll through bustling night markets like Shilin or Raohe, where tantalizing aromas waft through the air, tempting you to savor local delicacies such as stinky tofu and bubble tea. Discover the rich history of the region at iconic landmarks like the Chiang Kai-shek Memorial Hall, a grand tribute to Taiwan\'s former president.
+    Taipei\'s skyline is dominated by the awe-inspiring Taipei 101, once the tallest building in the world, showcasing its cutting-edge architecture and engineering prowess. Visitors can ascend to the observatory for breathtaking panoramic views of the city and its surrounding mountains.
+    For those seeking tranquility amidst the urban buzz, the city is home to lush green spaces, including the scenic Elephant Mountain and the serene Da\'an Forest Park, providing a welcome escape from the fast-paced city life.
+    As the sun sets, Taipei\'s nightlife springs to life, with a vibrant array of entertainment options, from lively bars and clubs to traditional performances at the Red House Theater.
+    Taipei\'s friendly and hospitable locals add warmth to the city\'s vibrant atmosphere, making it an unforgettable destination that seamlessly marries ancient charm with contemporary allure.</string>
 
+    <string name="seoul_description">Seoul, the sprawling capital of South Korea, is an electrifying metropolis that pulsates with energy, culture, and innovation. As one of the world\'s most populous cities, Seoul seamlessly blends its rich history with cutting-edge technology, creating a captivating destination that appeals to travelers from all walks of life.
+    Steeped in a history that spans over two millennia, Seoul boasts an impressive array of historical landmarks, such as the magnificent Gyeongbokgung Palace and the charming Bukchon Hanok Village, where traditional Korean houses provide a glimpse into the past.
+    The city\'s bustling markets, including the vibrant Namdaemun and Dongdaemun markets, offer an abundance of shopping opportunities, from trendy fashion to traditional crafts and street food that delights the senses.
+    Seoul is also renowned for its K-pop and Hallyu wave, attracting enthusiasts from across the globe. Visitors can explore entertainment hubs like Gangnam and Hongdae, where live performances, quirky cafés, and lively street performances are abundant.
+    For those seeking a respite from the urban rush, Seoul\'s numerous parks and green spaces provide an oasis of calm amidst the skyscrapers. Iconic locations like Namsan Mountain and the Han River Park offer breathtaking views of the city\'s skyline and a chance to relax amid nature.
+    Food enthusiasts will find themselves in a gastronomic paradise, with a diverse range of Korean cuisine to savor, from savory bibimbap to sizzling Korean barbecue.
+    Seoul\'s efficient public transportation system makes navigating the city a breeze, enabling visitors to explore its many neighborhoods and attractions with ease.
+    With a captivating blend of ancient traditions and modern wonders, Seoul stands as a city that celebrates its past while constantly pushing towards the future, making it an exciting and unforgettable destination for travelers seeking a taste of South Korea\'s vibrant culture and dynamic spirit.</string>
+
+    <string name="madrid_description">Madrid, the enchanting capital of Spain, exudes a magnetic charm that captures the hearts of its visitors. Nestled in the heart of the Iberian Peninsula, this cosmopolitan city is a perfect blend of historic grandeur, artistic treasures, and a vibrant modern lifestyle.
+    At the core of Madrid lies the historic Plaza Mayor, a lively square that has witnessed centuries of events and celebrations. From here, you can explore the city\'s cultural gems, including the impressive Royal Palace, which showcases opulent architecture and beautiful gardens.
+    Art enthusiasts are in for a treat at the Prado Museum, one of the most renowned art galleries in the world, housing an exceptional collection of masterpieces by artists like Velázquez, Goya, and El Greco.
+    Madrid\'s nightlife is legendary, and the city truly comes alive after sunset. The vibrant neighborhoods of Malasaña and Chueca beckon with their eclectic mix of trendy bars, restaurants, and live music venues, offering an unforgettable experience for night owls.
+    Spanish cuisine takes center stage in Madrid, with tapas bars lining the streets, inviting you to indulge in a delightful culinary journey. From savory jamón ibérico to delectable churros dipped in rich chocolate, the city\'s food scene caters to every palate.
+    The Buen Retiro Park provides a serene escape within the bustling city, offering a picturesque setting for leisurely strolls, boat rides on the lake, and moments of relaxation under the shade of ancient trees.
+    Madrid\'s friendly and welcoming locals, known as "Madrileños," add warmth to the city\'s vibrant atmosphere, creating an inviting ambiance that makes you feel right at home.
+    With its artistic heritage, lively spirit, and rich cultural tapestry, Madrid is a captivating destination that celebrates its traditions while embracing the contemporary, offering a truly unforgettable experience for travelers from around the world.</string>
 
     <string name="name">"Name: "</string>
     <string name="country">"Country: "</string>
@@ -176,5 +205,6 @@
 
     <string name="share">Share</string>
     <string name="share_desc">Tap the Share icon to easily send information about city via social media platforms.</string>
+    <string name="sort_by_country">Sort by country</string>
 
 </resources>
