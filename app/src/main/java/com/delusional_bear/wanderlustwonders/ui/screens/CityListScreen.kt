@@ -18,6 +18,7 @@ fun CityListScreen(
     dataSource: DataSource,
     modifier: Modifier = Modifier,
     isSortedByCity: Boolean,
+    isSortedByCountry: Boolean,
     onCardClick: (City) -> Unit,
 ) {
     Column(
@@ -30,7 +31,8 @@ fun CityListScreen(
             verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
             items(
-                if (isSortedByCity) dataSource.getSortedByCityList()
+                if (isSortedByCountry) dataSource.getSortedByCountryList()
+                else if (isSortedByCity) dataSource.getSortedByCityList()
                 else dataSource.getCitiesList()
             ) { city ->
                 CityCard(
