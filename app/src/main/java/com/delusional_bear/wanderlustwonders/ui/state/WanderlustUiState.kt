@@ -6,4 +6,7 @@ data class WanderlustUiState(
     val usersCityList: MutableList<City> = mutableListOf(),
     val isError: Boolean = false,
     val isDialogOpen: Boolean = false,
+    val isDropDownMenuOpen: Boolean = false,
+    val isSortedByCity: Boolean = false,
+    val isSortedByCountry: Boolean = false,
 )
