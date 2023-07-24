@@ -55,6 +55,32 @@ class WanderlustViewModel : ViewModel() {
         stateValue = state
     }
 
+    fun setDropDownMenuState() {
+        _uiState.update { currentState ->
+            currentState.copy(
+                isDropDownMenuOpen = !currentState.isDropDownMenuOpen
+            )
+        }
+    }
+
+    fun setSortByCity() {
+        _uiState.update { currentState ->
+            currentState.copy(
+                isSortedByCity = true,
+                isSortedByCountry = false,
+            )
+        }
+    }
+
+    fun setSortByCountry() {
+        _uiState.update { currentState ->
+            currentState.copy(
+                isSortedByCountry = true,
+                isSortedByCity = false,
+            )
+        }
+    }
+
     fun resetFields() {
         cityValue = ""
         countryValue = ""
