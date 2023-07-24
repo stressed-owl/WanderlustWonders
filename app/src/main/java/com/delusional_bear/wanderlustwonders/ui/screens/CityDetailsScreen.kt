@@ -115,7 +115,7 @@ fun CityDetailsScreen(modifier: Modifier = Modifier, dataSource: DataSource, cit
                         R.string.share_message,
                         city?.name,
                         city?.country,
-                        city?.state ?: "",
+                        city?.state ?: "No state",
                         city?.description?.let { desc -> context.resources.getString(desc) }
                     )
                     val intent = Intent(Intent.ACTION_SEND).apply {
