@@ -47,6 +47,14 @@ class DataSource(context: Context) {
         ),
         City(
             5,
+            context.resources.getString(R.string.kyiv),
+            context.resources.getString(R.string.ukraine),
+            null,
+            "https://images.unsplash.com/photo-1602417805869-1bcbb38de8b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
+            R.string.kyiv_description,
+        ),
+        City(
+            6,
             context.resources.getString(R.string.austin),
             context.resources.getString(R.string.usa),
             context.resources.getString(R.string.texas),
@@ -54,7 +62,7 @@ class DataSource(context: Context) {
             R.string.austin_description,
         ),
         City(
-            6,
+            7,
             context.resources.getString(R.string.washington),
             context.resources.getString(R.string.usa),
             context.resources.getString(R.string.columbia),
@@ -62,18 +70,36 @@ class DataSource(context: Context) {
             R.string.washington_description,
         ),
         City(
-            7,
-            context.resources.getString(R.string.kyiv),
-            context.resources.getString(R.string.ukraine),
+            8,
+            context.resources.getString(R.string.taipei),
+            context.resources.getString(R.string.taiwan),
             null,
-            "https://images.unsplash.com/photo-1602417805869-1bcbb38de8b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
-            R.string.kyiv_description,
+            "https://images.unsplash.com/photo-1552993873-0dd1110e025f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+            R.string.taipei_description,
+        ),
+        City(
+            9,
+            context.resources.getString(R.string.seoul),
+            context.resources.getString(R.string.south_korea),
+            null,
+            "https://images.unsplash.com/photo-1517154421773-0529f29ea451?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            R.string.seoul_description,
+        ),
+        City(
+            10,
+            context.resources.getString(R.string.madrid),
+            context.resources.getString(R.string.spain),
+            null,
+            "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            R.string.madrid_description,
         ),
     )
 
     fun getCitiesList() = citiesList
 
     fun getSortedByCityList() = citiesList.sortedBy { it.name }
+
+    fun getSortedByCountryList() = citiesList.sortedBy { it.country }
 
     fun getCityById(id: Int): City? {
         for (i in citiesList.indices) {
